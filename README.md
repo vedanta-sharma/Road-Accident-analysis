@@ -4,7 +4,7 @@ This is a Road accident analysis dashboard which showcases 3 years on data of ro
 
 It shows the detailed analysis of the road accident data by using data visualization and is made using Tableau.
 
-Here's the Tavleau link:
+Here's the Tableau link:
 
 https://rb.gy/9dv9u
 
